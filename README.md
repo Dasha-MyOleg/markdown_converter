@@ -24,6 +24,7 @@
 
 ### Інструкція з використання
 1. Запустіть скрипт з вибором формату: `python markdown_converter.py <input_file> [--out <output_file>] [--format <format_type>]`
+   Наприклад: python markdown_converter.py input.md --format html --out output.html
 2. Доступні формати: `html`, `ansi`.
 
 ### Інструкція по запуску тестів
